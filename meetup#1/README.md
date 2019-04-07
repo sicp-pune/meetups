@@ -3,6 +3,8 @@
 
 ### Notes
 
+Moved from [here](https://paper.dropbox.com/doc/SICP-Meetup-Notes--Aaw7A6nFaVPVF9WNohnF2aSAAQ-z7m5f2SuOBLvbFcHatThL)
+
 - Introductions from all attendees (~15)
 - Prathamesh set the context by talking about SICP the book and how the Meetup came to be
 - Nishant spoke briefly about background for Effectively Calculable and Lambda Calculus
